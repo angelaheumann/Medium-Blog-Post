@@ -6,8 +6,8 @@ CRISP-DM Investigation about the kaggle data set https://www.kaggle.com/hsankesa
 ### Key Questions
 * How well can we predict claps? What aspects correlate well to clap?
 * How well can we predict reading time? What aspects correlate well to reading time?
-* What aspects correlate well to a high clap?
-* What aspects correlate well to reading time for high claps?
+* What aspects correlate well to a high clap/ best clap (0.75/0.9 percentile)?
+* What aspects correlate well to reading time for high claps/ best claps(0.75/0.9 percentile)?
 
 ### How to run it
 First install requirements
